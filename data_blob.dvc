@@ -1,0 +1,5 @@
+outs:
+- md5: b0fa457f12f16adf66d0143fe9fae1af.dir
+  size: 1543
+  nfiles: 4
+  path: data_blob
